@@ -37,16 +37,19 @@ Les images et extraits de code présentés dans ce repository sont fournis à ti
 Voici un aperçu du style de code utilisé (version limitée) :
 
 ```swift
-Circle()
-                       .fill()
-                       .frame(width: 50, height: 50)
-                       .overlay(
-                           Circle()
-                               .stroke(Color.gray.opacity(0.2), lineWidth: 1)
-                       )
-                       .overlay(
-                           Text(text)
-                               .font(.headline)
+VStack(spacing: 20) {
+
+             // Logo
+             Circle()
+                 .fill(Color.blue)
+                 .frame(width: 100, height: 100)
+                 .overlay(
+                     Text("A")
+                         .font(.system(size: 40, weight: .bold))
+                         .foregroundColor(.white)
+                 )
+                 .padding(.top, 60)
+                               
 
 
 

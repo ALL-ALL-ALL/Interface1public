@@ -25,24 +25,14 @@ Une interface de connexion élégante et minimaliste pour applications iOS, dév
 
 Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à iosinterface@gmail.com.
 
-## Versions disponibles
-
-### Version statique
-Interface prête à l'emploi avec design complet. L'achat comprend :
+## Version disponible
+Interface statique prête à l'emploi. L'achat comprend :
 - Code source SwiftUI complet
 - Modes clair et sombre
 - Documentation d'intégration
 - Support technique post-achat
 
-### Version interactive (à venir)
-Version avancée avec animations et fonctionnalités complètes qui comprendra :
-- Toutes les fonctionnalités de la version statique
-- Animations et transitions entre écrans
-- Validation de formulaires en temps réel
-- Intégration facilitée avec différentes méthodes d'authentification
-
-*Les acheteurs de la version statique bénéficieront d'un tarif préférentiel pour la mise à niveau vers la version interactive.*
-
+*Note : Des versions améliorées avec fonctionnalités interactives pourront être proposées ultérieurement. Les acheteurs de la version actuelle bénéficieront de tarifs préférentiels.*
 
 ## Extrait de code
 

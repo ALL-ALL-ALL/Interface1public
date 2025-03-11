@@ -21,9 +21,6 @@ Une interface de connexion élégante et minimaliste pour applications iOS, dév
 - Lien vers l'écran d'inscription
 - Options de personnalisation
 
-## Comment acheter
-
-Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à iosinterface@gmail.com.
 
 ## Version disponible
 Interface statique prête à l'emploi. L'achat comprend :
@@ -33,6 +30,11 @@ Interface statique prête à l'emploi. L'achat comprend :
 - Support technique post-achat
 
 *Note : Des versions améliorées avec fonctionnalités interactives pourront être proposées ultérieurement. Les acheteurs de la version actuelle bénéficieront de tarifs préférentiels.*
+
+## Comment acheter
+
+Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à iosinterface@gmail.com.
+
 
 ## Extrait de code
 

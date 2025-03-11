@@ -32,9 +32,7 @@ Interface statique prête à l'emploi. L'achat comprend :
 *Note : Des versions améliorées avec fonctionnalités interactives pourront être proposées ultérieurement. Les acheteurs de la version actuelle bénéficieront de tarifs préférentiels.*
 
 ## Comment acheter
-
-Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à iosinterface@gmail.com.
-
+Pour acheter cette interface ou pour toute question, veuillez me contacter à iosinterface@gmail.com.
 
 ## Extrait de code
 

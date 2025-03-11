@@ -36,3 +36,16 @@ Circle()
                        .overlay(
                            Text(text)
                                .font(.headline)
+
+
+
+
+## Comment acheter
+
+Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à [votre-email@exemple.com].
+
+## Licence
+
+Les images et extraits de code présentés dans ce repository sont fournis à titre de démonstration uniquement. L'utilisation, la reproduction ou la distribution du code complet nécessite l'achat d'une licence.
+
+© 2025 [Votre Nom]. Tous droits réservés.

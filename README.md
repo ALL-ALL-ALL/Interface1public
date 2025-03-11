@@ -2,16 +2,16 @@
 
 Une interface de connexion élégante et minimaliste pour applications iOS, développée avec SwiftUI. Cette interface propose un design épuré et moderne, parfaitement adapté aux applications professionnelles.
 
-![Interface de connexion - Mode clair](login_light_mode.png)
-![Interface de connexion - Mode sombre](login_dark_mode.png)
+<img width="349" alt="SCR-20250311-qptj" src="https://github.com/user-attachments/assets/98b1f85e-8911-4908-856e-79e55a4b3156" />
+<img width="348" alt="SCR-20250311-quup" src="https://github.com/user-attachments/assets/e5eefac3-a791-4c71-9f49-9d6b86285fff" />
+
 
 ## Caractéristiques
 
 ✅ **Design épuré et professionnel** - Interface minimaliste respectant les guidelines d'Apple  
 ✅ **Mode clair et sombre** - Adaptation automatique au thème de l'appareil  
-✅ **Animations fluides** - Transitions élégantes entre les états  
 ✅ **Hautement personnalisable** - Couleurs, polices et rayons facilement modifiables  
-✅ **Compatibilité iOS 15+** - Fonctionne sur tous les appareils récents  
+✅ **Compatibilité iOS 15+** - Fonctionne sur tous les appareils récents
 
 ## Éléments inclus
 
@@ -26,20 +26,13 @@ Une interface de connexion élégante et minimaliste pour applications iOS, dév
 Voici un aperçu du style de code utilisé (version limitée) :
 
 ```swift
-struct SocialLoginButton: View {
-    var icon: String
-    var action: () -> Void
-    
-    var body: some View {
-        Button(action: action) {
-            Circle()
-                .fill(Color.white)
-                .frame(width: 50, height: 50)
-                .shadow(color: Color.black.opacity(0.1), radius: 4)
-                .overlay(
-                    Text(icon)
-                        .font(.system(size: 18, weight: .semibold))
-                )
-        }
-    }
-}
+Circle()
+                       .fill()
+                       .frame(width: 50, height: 50)
+                       .overlay(
+                           Circle()
+                               .stroke(Color.gray.opacity(0.2), lineWidth: 1)
+                       )
+                       .overlay(
+                           Text(text)
+                               .font(.headline)

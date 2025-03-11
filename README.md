@@ -23,7 +23,7 @@ Une interface de connexion élégante et minimaliste pour applications iOS, dév
 
 ## Comment acheter
 
-Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à [votre-email@exemple.com].
+Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à iosinterface@gmail.com.
 
 ## Licence
 

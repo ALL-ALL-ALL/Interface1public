@@ -21,6 +21,17 @@ Une interface de connexion élégante et minimaliste pour applications iOS, dév
 - Lien vers l'écran d'inscription
 - Options de personnalisation
 
+## Comment acheter
+
+Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à [votre-email@exemple.com].
+
+## Licence
+
+Les images et extraits de code présentés dans ce repository sont fournis à titre de démonstration uniquement. L'utilisation, la reproduction ou la distribution du code complet nécessite l'achat d'une licence.
+
+© 2025 IXART. Tous droits réservés.
+
+
 ## Extrait de code
 
 Voici un aperçu du style de code utilisé (version limitée) :
@@ -40,12 +51,3 @@ Circle()
 
 
 
-## Comment acheter
-
-Pour acheter la version complète de cette interface ou pour toute question, veuillez me contacter à [votre-email@exemple.com].
-
-## Licence
-
-Les images et extraits de code présentés dans ce repository sont fournis à titre de démonstration uniquement. L'utilisation, la reproduction ou la distribution du code complet nécessite l'achat d'une licence.
-
-© 2025 [Votre Nom]. Tous droits réservés.

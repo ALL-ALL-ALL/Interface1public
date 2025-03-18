@@ -2,8 +2,8 @@
 
 Une interface de connexion élégante et minimaliste pour applications iOS, développée avec SwiftUI. Cette interface propose un design épuré et moderne, parfaitement adapté aux applications professionnelles.
 
-<img width="349" alt="SCR-20250311-qptj" src="https://github.com/user-attachments/assets/98b1f85e-8911-4908-856e-79e55a4b3156" />
-<img width="348" alt="SCR-20250311-quup" src="https://github.com/user-attachments/assets/e5eefac3-a791-4c71-9f49-9d6b86285fff" />
+<img width="241" alt="SCR-20250318-dabh" src="https://github.com/user-attachments/assets/142c8357-ef76-4599-910f-54c1f42a12b5" />
+<img width="240" alt="SCR-20250318-cztd" src="https://github.com/user-attachments/assets/31c12677-4bf4-4476-aeb2-8a5dd2e7c427" />
 
 
 ## Caractéristiques

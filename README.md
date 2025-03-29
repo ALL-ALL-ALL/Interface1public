@@ -6,6 +6,9 @@ Une interface de connexion élégante et minimaliste pour applications iOS, dév
 <img width="240" alt="SCR-20250318-cztd" src="https://github.com/user-attachments/assets/31c12677-4bf4-4476-aeb2-8a5dd2e7c427" />
 
 
+**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
+
+
 ## Caractéristiques
 
 ✅ **Design épuré et professionnel** - Interface minimaliste respectant les guidelines d'Apple  
@@ -67,8 +70,6 @@ VStack(spacing: 20) {
                  )
                  .padding(.top, 60)
 ```
-
-**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
 
 ## Licence
 

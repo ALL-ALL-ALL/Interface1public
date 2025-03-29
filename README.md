@@ -28,6 +28,7 @@ Interface statique prête à l'emploi. Important: Cette version est purement vis
 
 Besoin d'assistance pour l'implémentation? Nous proposons également des services d'intégration pour rendre votre interface fonctionnelle. Contactez-nous pour un devis personnalisé d'implémentation des actions.
 
+L'achat comprend :
 - Code source SwiftUI complet
 - Modes clair et sombre
 - Documentation d'intégration

@@ -68,6 +68,8 @@ VStack(spacing: 20) {
                  .padding(.top, 60)
 ```
 
+**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
+
 ## Licence
 
 Les images et extraits de code présentés dans ce repository sont fournis à titre de démonstration uniquement. L'utilisation, la reproduction ou la distribution du code complet nécessite l'achat d'une licence.

@@ -32,7 +32,8 @@ L'achat comprend :
 - Code source SwiftUI complet
 - Modes clair et sombre
 - Documentation d'intégration
-- Support technique post-achat
+- **Durée du support** : 1 mois après l'achat
+
 
 *Note : Des versions améliorées avec fonctionnalités interactives pourront être proposées ultérieurement. Les acheteurs de la version actuelle bénéficieront de tarifs préférentiels.*
 
